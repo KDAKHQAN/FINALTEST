@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Health Services App</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_service">service</string>
+</resources>
